@@ -11,7 +11,7 @@ export const DATA = {
     "Developer | Reader | Writer",
   summary:
     "Hey there! I'm Saswat Pattanaik – a developer always on the lookout for challenging problems to solve. Lately, I’ve been diving deep into [Solidity](https://soliditylang.org/), [ML](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9355421982) , and [Golang](https://go.dev/), exploring new ways to push the boundaries of technology.Beyond coding, I love watching anime, traveling solo, and seizing every opportunity to learn and build something exciting.Let’s connect! You can find me on [Twitter](https://x.com/SaswatPatt86285) and [GitHub](https://github.com/sashhh31).Feel free to check out my [resume!](https://docs.google.com/document/d/1sXrooB9xPJB6ov1BvxPcmJeL2TNi9T9_/edit?usp=sharing&ouid=101735334093907301993&rtpof=true&sd=true)",
-  avatarUrl: "/profile.jpeg",
+  avatarUrl: "/PROFILE.jpeg",
   skills: [
     "React.js",
     "Next.js",
